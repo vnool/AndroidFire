@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">AndroidFire</string>
+    <string name="app_name">神锤大学</string>
 
     <!--menu-->
-    <string name="news">AndroidFire新闻</string>
+    <string name="news">大学</string>
     <string name="zhihu">知乎</string>
     <string name="photo">图片</string>
     <string name="video">视频</string>

@@ -2,11 +2,12 @@
 <resources>
     <string-array name="news_channel_name_static">
         <!--定死不能更改的5个频道-->
-        <item>头条</item>
-        <item>科技</item>
-        <item>财经</item>
-        <item>军事</item>
-        <item>体育</item>
+
+        <item>百问百答</item>
+        <item>发圈素材</item>
+        <item>客户反馈</item>
+        <item>专业知识</item>
+        <item>企业形象</item>
     </string-array>
 
     <!--新闻的可选频道-->
